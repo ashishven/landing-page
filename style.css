@@ -255,3 +255,21 @@ a{
 
 
 /*END signup section */
+
+
+
+
+
+
+/*START footer section */
+
+footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    padding: 36px 0;
+    justify-content: center;
+}
+
+
+/*END footer section */
