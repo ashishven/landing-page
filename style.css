@@ -100,6 +100,7 @@ a{
     border: none;
     border-radius: 5px;
     font-size: 18px;
+    cursor: pointer;
 }
 
 
@@ -202,3 +203,55 @@ a{
 
 
 /*END quote section */
+
+
+
+
+
+/*START signup section */
+
+.sign-up-section{
+   padding: 100px 0;
+}
+
+.sign-up-card{
+
+    background-color: #3882F6;
+    width: 70%;
+    margin:0 auto;
+    padding: 50px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    color: #F9FAF8;
+    justify-content: space-around;
+}
+
+
+
+.sign-up-title{
+
+   font-size: 24px;
+   font-weight: bold;
+}
+
+.sign-up-sub-title{
+
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up-button{
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-size: 18px;
+    color:#F9FAF8;
+    font-weight: bold;
+    padding: 10px 32px;
+    cursor: pointer;
+}
+
+
+
+/*END signup section */
